@@ -19,7 +19,7 @@ rendered properly in your Markdown viewer.
 ## Overview
 
 The MixtureOfTokens model was proposed in [MIXTURE OF TOKENS: EFFICIENT LLMS THROUGH
-CROSS-EXAMPLE AGGREGATION](https://arxiv.org/pdf/2310.15961.pdf) by Szymon Antoniak, Sebastian Jaszczur, Michał Krutul, Maciej Pióro, Jakub Krajewski, Jan Ludziejewski, Tomasz Odrzygóźdź, Marek Cygan.
+CROSS-EXAMPLE AGGREGATION](https://arxiv.org/abs/2310.15961) by Szymon Antoniak, Sebastian Jaszczur, Michał Krutul, Maciej Pióro, Jakub Krajewski, Jan Ludziejewski, Tomasz Odrzygóźdź, Marek Cygan.
 
 The abstract from the paper is the following:
 
